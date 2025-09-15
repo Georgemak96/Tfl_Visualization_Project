@@ -1,7 +1,7 @@
 # Tfl_Visualization_Project
 This is a project that was implemented for evaluation purposes during the "Managing and Visualizing Data" module in the Department of Statistics, LSE. The project's aim is to understand transportation user behaviour in the UK so as to formulate policies to encourage the UK's Net-Zero goals. To that extent, several data sources were utilized, such as publicly available 'Transport for London' datasets, as well as web-scraped cycle and tube data.
 
-Understanding Transportation User Behavior in the UK to Encourage Net-Zero Goals
+## Understanding Transportation User Behavior in the UK to Encourage Net-Zero Goals
 
 Understanding the user behavior of private and public means of transportation and the externalities (weather, congestion) that impact their usage is crucial for supporting the implementation of strategic decisions to mitigate emmitted from transportation modes. Believing in the previously mentioned, we aspire to answer the following question in this report: Can understanding transportation user behaviour in the UK help in formulating policies to encourage the UK's Net-Zero goals?
 
